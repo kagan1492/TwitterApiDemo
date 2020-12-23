@@ -1,12 +1,12 @@
 ## TwitterApiDemo
 
-# How to run:
+## How to run:
 Please run TwitterDemoAPI as a startup project and it will bring up Swagger API Documentation GUI.
 
-Dependencies:
+## Dependencies:
 .NET 5 SDK
 
-Some points to consider:
+## Some points to consider:
 - A flexible throttling logic needs to be implemented in order to meet Twitter Api usage limitations.
 - SaveTweet / GetTweet methods can have database implementations via Entity Framework / UnitofWork
 - Logging structure needs to be improved. Also it can be logged to db.
