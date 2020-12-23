@@ -1,6 +1,6 @@
-##TwitterApiDemo
+## TwitterApiDemo
 
-How to run:
+# How to run:
 Please run TwitterDemoAPI as a startup project and it will bring up Swagger API Documentation GUI.
 
 Dependencies:
