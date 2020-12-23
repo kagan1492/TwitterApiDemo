@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>TwitterDemoAPI</AssemblyName>
-    <DocumentationFile>\TwitterDemoAPI.xml</DocumentationFile>
+    <DocumentationFile>bin\$(Configuration)\TwitterDemoAPI.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
