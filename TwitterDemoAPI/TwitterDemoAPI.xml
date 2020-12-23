@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TwitterDemoAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TwitterDemoAPI.Controllers.TwitterController">
+            <summary>
+            Twitter API Demo by Kagan Yilmaz
+            </summary> 
+        </member>
+        <member name="M:TwitterDemoAPI.Controllers.TwitterController.Stats">
+            <summary> 
+            /// Gets Twitter statistics
+            /// </summary>  
+            /// <returns>TwitterStatModel</returns> 
+            /// <remarks> 
+            /// Please run ProcessTweets prior to running this method in order to build the data
+            /// </remarks>  
+        </member>
+        <member name="M:TwitterDemoAPI.Controllers.TwitterController.Process">
+            <summary>
+            Populates Twitter tweets data in cache 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
